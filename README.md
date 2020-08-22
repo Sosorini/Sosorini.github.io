@@ -9,6 +9,7 @@ Vanilla JS - [https://github.com/Sosorini/VanillaJS.github.io](https://github.co
 **CLONE CODING**
 
 [https://github.com/Sosorini/paint-box-clone](https://github.com/Sosorini/paint-box-clone)
+https://github.com/Sosorini/css-10x19-clone
 
 ## REACT & REACT-NATIVE
 
