@@ -4,15 +4,21 @@
 
 Vanilla JS - [https://github.com/Sosorini/VanillaJS.github.io](https://github.com/Sosorini/VanillaJS.github.io)
 
+
+
 ## CSS & HTML
 
 [https://github.com/Sosorini/paint-box-clone](https://github.com/Sosorini/paint-box-clone)
 
 [https://github.com/Sosorini/css-10x19-clone](https://github.com/Sosorini/css-10x19-clone)
 
+
+
 ## REACT & REACT-NATIVE
 
 TODO application [https://github.com/Sosorini/react-native-todoapp](https://github.com/Sosorini/react-native-todoapp)
+
+
 
 ### TEAM PROJECT
 
