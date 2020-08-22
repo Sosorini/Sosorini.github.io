@@ -8,7 +8,7 @@ Vanilla JS - [https://github.com/Sosorini/VanillaJS.github.io](https://github.co
 
 ## CSS & HTML
 
-[https://github.com/Sosorini/paint-box-clone](https://github.com/Sosorini/paint-box-clone)
+[https://github.com/Sosorini/css-paint-box-clone](https://github.com/Sosorini/css-paint-box-clone)
 
 [https://github.com/Sosorini/css-10x19-clone](https://github.com/Sosorini/css-10x19-clone)
 
