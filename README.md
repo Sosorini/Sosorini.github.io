@@ -8,6 +8,8 @@ Vanilla JS - [https://github.com/Sosorini/VanillaJS.github.io](https://github.co
 
 ## CSS & HTML (CLONE CODING)
 
+[https://github.com/Sosorini/css-best-horror-scenes-clone] (https://github.com/Sosorini/css-best-horror-scenes-clone)  
+
 [https://github.com/Sosorini/css-paint-box-clone](https://github.com/Sosorini/css-paint-box-clone)
 
 [https://github.com/Sosorini/css-10x19-clone](https://github.com/Sosorini/css-10x19-clone)
