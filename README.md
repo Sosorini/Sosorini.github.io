@@ -1,4 +1,4 @@
-# SOYEUN's github
+# PERSONAL STUDY
 
 ## Javascript
 
@@ -26,7 +26,6 @@ progressing...
 ## REACT & REACT-NATIVE
 
 TODO application [https://github.com/Sosorini/react-native-todoapp](https://github.com/Sosorini/react-native-todoapp)
-
 
 
 ### TEAM PROJECT
